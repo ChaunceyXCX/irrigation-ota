@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "file": "firmware-v1.1.1.bin",
-  "prev_version": "",
-  "prev_file": "",
-  "notes": "release v1.1.1"
+  "version": "1.1.2",
+  "file": "firmware-v1.1.2.bin",
+  "prev_version": "1.1.1",
+  "prev_file": "firmware-v1.1.1.bin",
+  "notes": "release v1.1.2"
 }
