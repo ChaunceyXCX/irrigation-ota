@@ -4,7 +4,7 @@
   "prev_version": "1.2.6",
   "prev_file": "firmware-v1.2.6.bin",
   "sha256": "8d90f569d6f916a550ff64d406a2e309f7d2338bbc12fec83a455181e07ebd3c",
-  "sig": "",
+  "sig": "32fbdfc68f922d5289d08b2f4e371070dc6676ae0e598217a9d7e0225ba94a0b07aec62edb4a5c174f1d9dd5731a6b1a23a54aaa401dd0670a9a51ef7359968e",
   "prev_sha256": "4c75c5c7afbf67e362313b4a2f0a08d1c3e023ea636757020f7dfb55b571f63d",
   "prev_sig": "",
   "notes": "release v1.2.7"
