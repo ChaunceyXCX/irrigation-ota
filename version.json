@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "file": "firmware-v1.2.8.bin",
-  "prev_version": "1.2.7",
-  "prev_file": "firmware-v1.2.7.bin",
-  "sha256": "b75e19d5d23cf5ca811252e43ecc485d5fc6b02b8cc9bd77f662f156ca3cd95e",
+  "version": "1.2.9",
+  "file": "firmware-v1.2.9.bin",
+  "prev_version": "1.2.8",
+  "prev_file": "firmware-v1.2.8.bin",
+  "sha256": "52a703e8ef59fa182567a2859db76835c4162912af0bc0d61ddafe5adb435d1d",
   "sig": "",
-  "prev_sha256": "8d90f569d6f916a550ff64d406a2e309f7d2338bbc12fec83a455181e07ebd3c",
+  "prev_sha256": "b75e19d5d23cf5ca811252e43ecc485d5fc6b02b8cc9bd77f662f156ca3cd95e",
   "prev_sig": "",
-  "notes": "release v1.2.8"
+  "notes": "release v1.2.9"
 }
