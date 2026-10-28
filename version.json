@@ -1,7 +1,11 @@
 {
-  "version": "1.2.6",
-  "file": "firmware-v1.2.6.bin",
-  "prev_version": "1.2.5",
-  "prev_file": "firmware-v1.2.5.bin",
-  "notes": "release v1.2.6"
+  "version": "1.2.7",
+  "file": "firmware-v1.2.7.bin",
+  "prev_version": "1.2.6",
+  "prev_file": "firmware-v1.2.6.bin",
+  "sha256": "8d90f569d6f916a550ff64d406a2e309f7d2338bbc12fec83a455181e07ebd3c",
+  "sig": "",
+  "prev_sha256": "4c75c5c7afbf67e362313b4a2f0a08d1c3e023ea636757020f7dfb55b571f63d",
+  "prev_sig": "",
+  "notes": "release v1.2.7"
 }
