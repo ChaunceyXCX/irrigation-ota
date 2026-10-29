@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "file": "firmware-v1.3.0.bin",
-  "prev_version": "",
-  "prev_file": "",
-  "sha256": "3a4e5fe8ed32a7aeda124e850f30b5af752cef2c4a461efa0f3202a3355eeaa9",
-  "sig": "98f1a8f6fcdc21830df0993398b157d02a55ebea005d403ba89692dcbccef57df12b5cab12233d57b10321bd73ec2c1d733a8f0efcb36ff9fedf2073c57b894b",
-  "prev_sha256": "",
-  "prev_sig": "",
-  "notes": "release v1.3.0"
+  "version": "1.3.1",
+  "file": "firmware-v1.3.1.bin",
+  "prev_version": "1.3.0",
+  "prev_file": "firmware-v1.3.0.bin",
+  "sha256": "25b3d255229e24d04801fbb79bedea1920a12713bd5d810938ed061090283899",
+  "sig": "b31f19dc5471f0ab77b1644f537800f64146300f6c013d5a51eaae468d7f2d31967374faa59843526eab6b07bf3bc8e2d056889bdfd4d6ddf3e51ba4d3e0843e",
+  "prev_sha256": "3a4e5fe8ed32a7aeda124e850f30b5af752cef2c4a461efa0f3202a3355eeaa9",
+  "prev_sig": "21c248b08d71c9647b08b3250a8886199e30652ed886a64d79a914b95cf8b4ac4c60053ecdab5f0b691d06c222ab3ebe6f65c57b71d3a59235598b1e7c262bf7",
+  "notes": "release v1.3.1"
 }
